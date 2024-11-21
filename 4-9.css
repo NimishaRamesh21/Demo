@@ -1,0 +1,13 @@
+h1{
+    background-color: rgb(200, 160, 60);
+    text-align: justify;
+}
+body{
+    background-color: lightgrey;
+}
+p{
+    text-align: center;
+}
+pre{
+    text-align: center;
+}
